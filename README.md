@@ -55,7 +55,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 - /edit  Edita umartigo, recebe obrigatoriamente o id do artigo, e pode receber um titulo ou uma descrição, em qualquer ordem ou quantidade de campos, somente um, ou ambos. <br/>
 `{
-    "if": "111222333",
+    "id": "111222333",
     "description": "Novo título",
     "title": "Nova descrição",
 }`
